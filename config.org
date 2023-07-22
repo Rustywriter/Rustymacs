@@ -12,7 +12,7 @@ You can use my Emacs config anytime; the installation is pretty simple.
 #+END_VERSE
 
 - First, get rid of your =~/.emacs.d= and =~/.emacs=.
-- Run =git clone https://github/Rustywriter/Rustmacs ~/.emacs.d=
+- Run =git clone https://github/Rustywriter/Rustymacs ~/.emacs.d=
 - Open Emacs with fingers crossed!
 
 * Package Management
