@@ -1,0 +1,1 @@
+minimal confing for emacs
